@@ -1,0 +1,22 @@
+.quote-overlay {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 60px;
+  background-color: #F4F4F4;
+  height: 400px;
+  padding-top: 50px;
+}
+
+.news-title {
+  font-size: 30px;
+  font-weight: 100;
+}
+
+.section-title-home-content {
+  text-align: center;
+  background-color: #F4F4F4;
+  position: relative;
+  padding-right: 30px;
+  padding-left: 30px;
+}

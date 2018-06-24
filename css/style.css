@@ -1,0 +1,24 @@
+@import "navbar.css";
+@import "footer.css";
+@import "banner.css";
+@import "card.css";
+@import "movies.css";
+@import "quote.css";
+@import "contact.css";
+@import "sponsors.css";
+
+html, body {
+  height: 100%;
+}
+
+/* Body */
+body {
+  font-family: "Avenir", "Helvetica", "sans-serif";
+  background-color: lightgrey;
+}
+
+h2 {
+  font-family: "Avenir", "Helvetica", "sans-serif";
+  line-height: 1.1;
+  color: inherit;
+}
